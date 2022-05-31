@@ -1,0 +1,1 @@
+// +" Total Hours: "+totalWorkingHours+ " Employee wage: "+ empWage);
