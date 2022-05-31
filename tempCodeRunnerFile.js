@@ -1,1 +1,1 @@
-// +" Total Hours: "+totalWorkingHours+ " Employee wage: "+ empWage);
+//  +" Total Hours: "+totalWorkingHours+ " Employee wage: "+ empWage);
